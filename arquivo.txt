@@ -1,7 +1,2 @@
-Nesse 
 Hoeltgebaum
-asds
-dockerd
-q
-eqw
-sda
+New teste
