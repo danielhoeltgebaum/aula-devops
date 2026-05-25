@@ -3,3 +3,4 @@ New teste
 Teste Daniel
 arquivo.txt Teste Daniel 2
 arquivo.txt Teste Daniel 3
+Teste Daniel 4
